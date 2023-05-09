@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashwatsaini
-- 👀 I’m interested in Artificial Intelligence!!
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python, Arduino, Data Structures, and Machine Learning
 
 <!---
