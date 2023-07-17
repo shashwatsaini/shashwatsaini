@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashwatsaini
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Arduino, Data Structures, and Machine Learning
+- 🌱 I’m currently hooked on Machine Learning
 
 <!---
 shashwatsaini/shashwatsaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
