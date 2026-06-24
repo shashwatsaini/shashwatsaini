@@ -1,8 +1,6 @@
 About Me:
 
-I am a B.Tech. senior at Dayananda Sagar University, also pursuing an online B.S. degree in Data Science from IIT Madras. I have actively contributed to AI research through my works on neural networks & bioinformatics, including protein analysis and omics data. 
-
-Apart from academia, I have built several projects leveraging AI in tasks such as LLM training & fine-tuning, image segmentation & object detection, and feature engineering. My expertise includes techniques such as neural networks, computer vision, natural language processing, and multi-agent systems.
+Machine Learning and AI enthusiast with 1 year of industry experience through internships, building and deploying AI systems across computer vision, multimodal AI, and LLM-based applications. Graduate in Computer Science (AI & ML) and concurrently pursuing a B.S. in Data Science from IIT Madras. Experienced in developing real-time vision pipelines, AI agents, multimodal retrieval systems, and end-to-end machine learning solutions, with a strong interest in building production-ready AI.
 
 <!---
 shashwatsaini/shashwatsaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
